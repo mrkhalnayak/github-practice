@@ -1,0 +1,5 @@
+git init  # this we use to initialize the git on our folder
+git add <file name> # for adding the file for git
+git commit -m 'comments' <file name>  # we use this command to commit file in git to start getting tracked.
+git clone <repo url> # This git command we use to clone the github repository in loacl machine
+
