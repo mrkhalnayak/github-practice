@@ -15,4 +15,5 @@ git clone <repo url> # This git command we use to clone the github repository in
 
 << git push origin <branch name> >> this command we used to push the changed any specific remote branch.
 
-<< git merge > This command we used to merge the changes.
+<< git merge <branch name> >> This command we used to merge the branchs. like if we are in branch-A and so we write to << git merge branch-B >> got get merge the branch-B with branch-A,
+And if we are on branch-B so we run the command << git merge branch-A >> to merge the branch-B with branch-A.
