@@ -14,3 +14,5 @@ git clone <repo url> # This git command we use to clone the github repository in
 << git branch -d <branch name> >> this command is used to delete the branch (-d is used for delete)
 
 << git push origin <branch name> >> this command we used to push the changed any specific remote branch.
+
+<< git merge > This command we used to merge the changes.
