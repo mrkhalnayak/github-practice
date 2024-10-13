@@ -3,3 +3,12 @@ git add <file name> # for adding the file for git
 git commit -m 'comments' <file name>  # we use this command to commit file in git to start getting tracked.
 git clone <repo url> # This git command we use to clone the github repository in loacl machine
 
+<< git branch >> This command let us get the branches information.
+<< git branch <branch name> >> This command will create the new branch for us.
+
+<< git checkour -b <branch name> >> This command also used to create an other branch.
+
+<< git checkout <branch name> >> this command will let us switch to that paticular branch.
+<< git switch <branch name> >> this command also let us switch to any branch.
+
+
