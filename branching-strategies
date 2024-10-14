@@ -1,0 +1,6 @@
+Branching strategies in 2018.
+[master branch] -------------------------------> Current version of any Software.
+Master branch called as protected branch or stable branch also.
+[Staging branch] —-----------------------> Majorly for the testing team.
+[dev branch] —---------------------------> Development branch.
+[feature branch] —-----------------------> Branch for specific Developer.
